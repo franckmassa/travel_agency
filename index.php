@@ -8,7 +8,7 @@
     </head>
     <body>
         <header>
-            <!--  Conteneur invisible pour délimiter le la page du site -->
+            <!--  Conteneur invisible pour délimiter la page du site -->
             <div class="wrapper">
                 <h1>Travel Agency<span class="orange">.</span></h1>
                 <nav>
@@ -22,14 +22,14 @@
             </div>
         </header>
         <section id="main-image">
-            <!--  Conteneur invisible pour délimiter le la page du site -->
+            <!--  Conteneur invisible pour délimiter la page du site -->
             <div class="wrapper">
                 <h2>Organisez votre<br><strong>voyage sur mesure</strong></h2>
                 <a href="#" class="button-1">Par ici</a>
             </div>
         </section>
         <section id="steps">
-            <!--  Conteneur invisible pour délimiter le la page du site -->
+            <!--  Conteneur invisible pour délimiter la page du site -->
             <div class="wrapper">
                 <ul>
                     <li id="step-1">
@@ -58,7 +58,7 @@
             </div>
         </section>
         <section id="possibilities">
-            <!--  Conteneur invisible pour délimiter le la page du site -->
+            <!--  Conteneur invisible pour délimiter la page du site -->
             <div class="wrapper">
                 <article style="background-image: url(images/article-image-1.jpg);">
                     <!-- div transparente -->
@@ -77,29 +77,18 @@
                     </div>
                 </article>
                 <div class="clear"></div>
-
             </div>
         </section>
-
         <section id="contact">
-            <!--  Conteneur invisible pour délimiter le la page du site -->
+            <!--  Conteneur invisible pour délimiter la page du site -->
             <div class="wrapper">
-
             </div>
         </section>
-
         <footer>
-            <!--  Conteneur invisible pour délimiter le la page du site -->
+            <!--  Conteneur invisible pour délimiter la page du site -->
             <div class="wrapper">
-
             </div>
         </footer>
-
-
-
-
-
     </body>
-
 </html>
 
