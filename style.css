@@ -165,7 +165,7 @@ header nav ul li a {
    On utilise box-sizing pour enlever le bord blanc du bas(la hauteur du overlay doit inclure le padding).
 */
 .overlay {
-    background: rgba(255, 255, 255, 0.95);
+    background: #fffffff2;
     width: 220px;
     height: 100%;
     padding: 20px;
@@ -174,7 +174,7 @@ header nav ul li a {
     box-sizing: border-box;    
 }
 article h4 {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #dddddd;
     padding-bottom: 20px;
     text-transform: uppercase;
     margin-bottom: 20px;
